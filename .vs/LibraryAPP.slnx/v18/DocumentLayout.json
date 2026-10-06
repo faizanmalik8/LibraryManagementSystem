@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Projects\\LibraryAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|e:\\c# projects\\libraryapp\\librarydata\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A9641-846F-4256-A397-1D1FF1B1A0EF}|LibraryAPP\\LibraryAPP.csproj|e:\\c# projects\\libraryapp\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362A9641-846F-4256-A397-1D1FF1B1A0EF}|LibraryAPP\\LibraryAPP.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|e:\\c# projects\\libraryapp\\librarydata\\backuphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\backuphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|e:\\c# projects\\libraryapp\\librarydata\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|e:\\c# projects\\libraryapp\\librarydata\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|e:\\c# projects\\libraryapp\\librarydata\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50599F3B-3169-493E-9246-3B2953BA2C45}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Projects\\LibraryAPP\\LibraryAPP\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryAPP\\Program.cs",
+              "ToolTip": "E:\\C# Projects\\LibraryAPP\\LibraryAPP\\Program.cs",
+              "RelativeToolTip": "LibraryAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:50:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackupHelper.cs",
+              "DocumentMoniker": "E:\\C# Projects\\LibraryAPP\\LibraryData\\BackupHelper.cs",
+              "RelativeDocumentMoniker": "LibraryData\\BackupHelper.cs",
+              "ToolTip": "E:\\C# Projects\\LibraryAPP\\LibraryData\\BackupHelper.cs",
+              "RelativeToolTip": "LibraryData\\BackupHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:53:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\C# Projects\\LibraryAPP\\LibraryData\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryData\\BookRepository.cs",
+              "ToolTip": "E:\\C# Projects\\LibraryAPP\\LibraryData\\BookRepository.cs",
+              "RelativeToolTip": "LibraryData\\BookRepository.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:53:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\C# Projects\\LibraryAPP\\LibraryData\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Member.cs",
+              "ToolTip": "E:\\C# Projects\\LibraryAPP\\LibraryData\\Member.cs",
+              "RelativeToolTip": "LibraryData\\Member.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:38:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "E:\\C# Projects\\LibraryAPP\\LibraryData\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryData\\MemberRepository.cs",
+              "ToolTip": "E:\\C# Projects\\LibraryAPP\\LibraryData\\MemberRepository.cs",
+              "RelativeToolTip": "LibraryData\\MemberRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:56:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\C# Projects\\LibraryAPP\\LibraryData\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Book.cs",
+              "ToolTip": "E:\\C# Projects\\LibraryAPP\\LibraryData\\Book.cs",
+              "RelativeToolTip": "LibraryData\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:38:06.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

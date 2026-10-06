@@ -1,0 +1,1 @@
+[{"BookId":1002,"Title":"Rich Dad Poor Dad","Author":"Faizan MAlik","Stock":1}]

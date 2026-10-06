@@ -1,0 +1,13 @@
+E:\C# Projects\LibraryAPP\LibraryData\bin\Debug\net10.0\LibraryData.deps.json
+E:\C# Projects\LibraryAPP\LibraryData\bin\Debug\net10.0\LibraryData.dll
+E:\C# Projects\LibraryAPP\LibraryData\bin\Debug\net10.0\LibraryData.pdb
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.csproj.AssemblyReference.cache
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.AssemblyInfoInputs.cache
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.AssemblyInfo.cs
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.csproj.CoreCompileInputs.cache
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.dll
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\refint\LibraryData.dll
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryData.pdb
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\ref\LibraryData.dll
+E:\C# Projects\LibraryAPP\LibraryData\obj\Debug\net10.0\LibraryD.FDC041F7.Up2Date
